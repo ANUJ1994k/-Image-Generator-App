@@ -54,6 +54,7 @@ Build An AI Image Generator App In React Using OpenAI  API - Like DALL-E Image G
 
 ## 📷 Screenshots
 
+![project live page](https://github.com/user-attachments/assets/08025128-01ed-4b1e-a0bf-58a10aaf8c0d)
 
 ## 🔮 Upcoming Features
 
